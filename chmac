@@ -1,8 +1,8 @@
 #!/bin/bash
-#A little script to ranomize your mac address
+#A little script to randomize your mac address
 #Coded by GUNN4R, 1 Aug 2014
 function manual () {
-  echo -e "Usage:\\nchmac.sh -r <adapter>"
+  echo -e "Usage:\\nchmac -r <adapter>"
   echo -e "\\n -r -- assign a random mac address"
   echo "Example:"
   echo "chmac.sh -r wlan0  -- this sets the mac address to be random"

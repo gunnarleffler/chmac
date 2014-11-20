@@ -7,7 +7,7 @@ macchanger broke, so I decided to write a quick bash script to do the same thing
 
 ##Example:
 ```
-chmac.sh -r wlan0  -- this sets the mac address to be random
+chmac -r wlan0  -- this sets the mac address to be random
 ```
 
 ## Motivation
