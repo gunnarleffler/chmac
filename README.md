@@ -1,18 +1,17 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+macchanger broke, so I decided to write a quick bash script to do the same thing.
 
 ## Usage
 `chmac.sh <adapter>`
 
-##nExample:
+##Example:
 ```
 chmac.sh -r wlan0  -- this sets the mac address to be random
 ```
 
 ## Motivation
 
-macchanger broke, so I decided to write a quick bash script to do the same thing.
 
 Certain public wifi hotspots track you based on mac address. Sometimes your mac address is transported outside of the subnet you are on. I find this to be a little creepy.
 
